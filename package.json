@@ -5,5 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "lerna": "^3.20.2"
+  },
+  "scripts": {
+    "start": "cd server && yarn start",
+    "heroku-postbuild": "cd server && yarn"
   }
 }

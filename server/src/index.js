@@ -20,4 +20,4 @@ server
   .use(cors())
   .use("/api", routes);
 
-server.listen(3333);
+server.listen(process.env.PORT);
