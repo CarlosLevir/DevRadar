@@ -23,7 +23,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBzjyjDK0fYCw47lyZxGeET8M3Nyu9kiq4"
+          "apiKey": ""
         }
       },
       "package": "com.rocketseat.devradar",
